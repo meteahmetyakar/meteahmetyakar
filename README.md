@@ -1,5 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-
 - 🖐🏼 Hi, I'm mete ahmet yakar
 - 👨🏽‍💻 I'm a computer engineering student at Gebze Technical University.
 - 🔭 I’m currently learning blockchain technology.
