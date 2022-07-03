@@ -48,6 +48,19 @@
   </a>
 </p> 
 
+<p align="center"> 
+  <a>
+    <img src="https://leetcard.jacoblin.cool/meteahmetyakar?theme=unicorn&font=Almarai"/>
+    <h3 align="center">I am solving at least one question every day in <a href="https://leetcode.com/meteahmetyakar/">leetcode</a> as of July 4, 2022</h3>
+  </a>
+</p> 
+
+<p align="center"> 
+  <a>
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
+    <br></br>
+  </a>
+</p> 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -73,8 +86,4 @@
   </a>
 </p> 
 
-<p align="center"> 
-  <a>
-    <img src="https://leetcard.jacoblin.cool/meteahmetyakar?theme=unicorn&font=Almarai"/>
-  </a>
-</p> 
+
