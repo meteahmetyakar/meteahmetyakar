@@ -42,21 +42,21 @@
 </p> 
 
 <p align="center"> 
-  <a href="#">
+  <a>
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
     <br></br>
   </a>
 </p> 
 
 <p align="center"> 
-  <a href="#">
+  <a href = "https://leetcode.com/meteahmetyakar/">
     <img src="https://leetcard.jacoblin.cool/meteahmetyakar?theme=unicorn&font=Almarai"/>
     <h3 align="center">I am solving at least one question every day in <a href="https://leetcode.com/meteahmetyakar/">leetcode</a> as of July 4, 2022</h3>
   </a>
 </p> 
 
 <p id="3"align="center"> 
-  <a href="#3">
+  <a>
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
     <br></br>
   </a>
@@ -80,7 +80,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=137ecf&color=aeb4e6"></a>
 
 <p align="center"> 
-   <a href="#">
+   <a>
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
     <br></br>
   </a>
