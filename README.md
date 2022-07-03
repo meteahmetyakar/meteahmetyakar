@@ -1,7 +1,11 @@
 <p align="center"> 
-  
-  <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
-  
+  <a>
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
+    <br></br>
+  </a>
+</p> 
+
+<p align="center"> 
   <a href="https://github.com/meteahmetyakar/person-recognition-and-tkinter-GUI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=person-recognition-and-tkinter-GUI&bg_color=99%,c3c7e8,a9ff99"/>
   </a>
@@ -31,9 +35,14 @@
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteahmetyakar&hide=css,html,makefile&langs_count_private=true&bg_color=82%,c3c7e8,c3c7e8,a9ff99&card_width=805"/>
   </a>
-  
 </p> 
 
+<p align="center"> 
+  <a>
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
+    <br></br>
+  </a>
+</p> 
 
 
 
