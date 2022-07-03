@@ -11,22 +11,22 @@ https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png)
 <br></br>
 
 <p align="center"> 
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/meteahmetyakar/knocomy">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=knocomy"/>
   </a>
   
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/meteahmetyakar/person-recognition-and-tkinter-GUI">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=person-recognition-and-tkinter-GUI"/>
   </a>
 </p>
 
 
 <p align="center"> 
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=Bmi-Calculator-With-Image-Processing"/>
   </a>
   
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/meteahmetyakar/wordgame">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=wordgame"/>
   </a>
 </p>
