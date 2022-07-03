@@ -66,5 +66,13 @@
 <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=plastic&logo=visual-studio&logoColor=137ecf&color=aeb4e6"></a>\
 <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=137ecf&color=aeb4e6"></a>
 
-<br></br>
+<p align="center"> 
+  <a>
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
+    <br></br>
+  </a>
+</p> 
 
+<a href="https://github.com/meteahmetyakar/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=meteahmetyakar" width="400"/>
+</a>
