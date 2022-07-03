@@ -53,7 +53,7 @@
 
 <a href="#"><img src="https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git&color=aeb4e6"></a>\
 <a href="#"><img src="https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python&logoColor=37c451&color=aeb4e6"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Java-05122A?style=plastic&logo=java&logoColor=137ecf&color=aeb4e6"></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=137ecf&color=aeb4e6"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&logoColor=137ecf&color=aeb4e6"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=137ecf&color=aeb4e6"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C%23-orange?style=plastic&logo=c-sharp&logoColor=137ecf&color=aeb4e6"></a>\
