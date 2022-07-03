@@ -73,6 +73,8 @@
   </a>
 </p> 
 
-<a href="https://github.com/meteahmetyakar/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=meteahmetyakar" width="400"/>
-</a>
+<p align="center"> 
+  <a>
+    <img src="https://leetcard.jacoblin.cool/meteahmetyakar?theme=unicorn&font=Almarai"/>
+  </a>
+</p> 
