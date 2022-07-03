@@ -1,6 +1,6 @@
-- 🖐🏼 Hi, I'm mete ahmet yakar
-- 👨🏽‍💻 I'm a computer engineering student at Gebze Technical University.
-- 🔭 I’m currently learning blockchain technology.
+### - 🖐🏼 Hi, I'm mete ahmet yakar
+### - 👨🏽‍💻 I'm a computer engineering student at Gebze Technical University.
+### - 🔭 I’m currently learning blockchain technology.
 
 <p align="center"> 
   <a>
