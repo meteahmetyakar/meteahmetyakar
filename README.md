@@ -13,11 +13,7 @@ https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png)
   </a>
 </p> 
  
-  
-<p align="center">   
-  <a href="https://github.com/meteahmetyakar/knocomy">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=knocomy"/>
-  </a>
+
   
   <a href="https://github.com/meteahmetyakar/person-recognition-and-tkinter-GUI">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=person-recognition-and-tkinter-GUI"/>
@@ -30,7 +26,14 @@ https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png)
   <a href="https://github.com/meteahmetyakar/wordgame">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=wordgame"/>
   </a>
-</p>
+  
+  <a href="https://github.com/meteahmetyakar/knocomy">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=knocomy"/>
+  </a>
+  
+
+
+
 
 
 <p align="center"> 
