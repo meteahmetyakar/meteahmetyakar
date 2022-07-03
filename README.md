@@ -1,10 +1,3 @@
-
-![-----------------------------------------------------](
-
-<br></br>
-<a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-
-
 <p align="center"> 
   
   <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
