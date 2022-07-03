@@ -1,8 +1,11 @@
-### Hi there 👋
 
 ![-----------------------------------------------------](
 https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png)
+<br><br/>
 <a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<br><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteahmetyakar&hide=C,makefile&langs_count_private=true&theme=blueberry&card_width=445)<br><br>
 <!--
 **meteahmetyakar/meteahmetyakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
