@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+https://github.com/meteahmetyakar/meteahmetyakar/blob/master/line.png)]
+<a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <!--
 **meteahmetyakar/meteahmetyakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
