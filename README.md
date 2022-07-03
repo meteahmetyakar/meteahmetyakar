@@ -56,7 +56,7 @@
 </p> 
 
 <p id="3"align="center"> 
-  <a href="3">
+  <a href="#3">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
     <br></br>
   </a>
