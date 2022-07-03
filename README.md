@@ -3,7 +3,7 @@
 ### - 🔭 I’m currently learning blockchain technology.
 
 <p align="center"> 
-  <a href="#">
+  <a href="">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
     <br></br>
   </a>
@@ -36,27 +36,27 @@
 </p> 
 
 <p align="center"> 
-  <a href="#">
+  <a href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteahmetyakar&hide=css,html,makefile&langs_count_private=true&bg_color=82%,c3c7e8,c3c7e8,a9ff99&card_width=805"/>
   </a>
 </p> 
 
 <p align="center"> 
-  <a href="#">
+  <a href="">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
     <br></br>
   </a>
 </p> 
 
 <p align="center"> 
-  <a href="#">
+  <a href="">
     <img src="https://leetcard.jacoblin.cool/meteahmetyakar?theme=unicorn&font=Almarai"/>
     <h3 align="center">I am solving at least one question every day in <a href="https://leetcode.com/meteahmetyakar/">leetcode</a> as of July 4, 2022</h3>
   </a>
 </p> 
 
 <p align="center"> 
-  <a href="#">
+  <a href="">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
     <br></br>
   </a>
@@ -80,7 +80,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=137ecf&color=aeb4e6"></a>
 
 <p align="center"> 
-  <a>
+   <a href="">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
     <br></br>
   </a>
