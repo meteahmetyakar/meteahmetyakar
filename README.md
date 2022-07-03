@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![-----------------------------------------------------](
-https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png)]
+![-----------------------------------------------------](
+https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png)
 <a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <!--
 **meteahmetyakar/meteahmetyakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
