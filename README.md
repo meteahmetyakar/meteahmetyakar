@@ -65,7 +65,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<a href="#"><img src="https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git&color=aeb4e6"></a>\
+<img src="https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git&color=aeb4e6">\
 <a href="#"><img src="https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python&logoColor=37c451&color=aeb4e6"></a>
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=137ecf&color=aeb4e6"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&logoColor=137ecf&color=aeb4e6"></a>
