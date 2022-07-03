@@ -94,7 +94,7 @@
   <a href="https://meteahmetyakar.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&color=aeb4e6"></a>
 </p>
 
-<h3 align="center">Feel free to contact me 👍🏻</h3>
+<h3 align="center">Feel free to contact me🏻🧭</h3>
 
 
 
