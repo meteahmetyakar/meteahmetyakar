@@ -20,7 +20,7 @@ https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png)
   </a>
   
   <a href="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=Bmi-Calculator-With-Image-Processing&theme=blueberry"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=Bmi-Calculator-With-Image-Processing"/>
   </a>
   
   <a href="https://github.com/meteahmetyakar/wordgame">
