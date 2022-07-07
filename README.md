@@ -73,13 +73,14 @@
 <a href="#"><img src="https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&logoColor=137ecf&color=aeb4e6"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=137ecf&color=aeb4e6"></a>
 <a href="#"><img src="https://img.shields.io/badge/-C%23-orange?style=plastic&logo=c-sharp&logoColor=137ecf&color=aeb4e6"></a>\
-<a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white&color=aeb4e6"></a>
+<a href="#"><img src="https://img.shields.io/static/v1?style=plastic&message=Microsoft+SQL+Server&color=aeb4e6&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label="></a>
 <a href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=170c59&color=aeb4e6"></a>\
 <a href="#"><img src="https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5&color=aeb4e6"></a>
 <a href="#"><img src="https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6&color=aeb4e6"></a>\
 <a href="#"><img src="https://img.shields.io/badge/Unity-100000?style=plastic&logo=unity&logoColor=323232&color=aeb4e6"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Android%20Studio-green?style=plastic&logo=android-studio&color=aeb4e6"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=plastic&logo=visual-studio&logoColor=137ecf&color=aeb4e6"></a>\
+<a href="#"><img src="https://img.shields.io/static/v1?style=&message=Adobe+Photoshop&color=aeb4e6&logo=Adobe+Photoshop&logoColor=0f2470&label="></a>\
 <a href="#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=137ecf&color=aeb4e6"></a>
 
 <p align="center"> 
