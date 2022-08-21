@@ -33,6 +33,11 @@
   <a href="https://github.com/meteahmetyakar/knocomy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=knocomy&bg_color=99%,c3c7e8,a9ff99"/>
   </a>
+  
+  <a href="https://github.com/meteahmetyakar/leetcode-problems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meteahmetyakar&repo=leetcode-problems&bg_color=99%,c3c7e8,a9ff99"/>
+  </a>
+  
 </p> 
 
 <p align="center"> 
