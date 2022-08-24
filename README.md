@@ -71,7 +71,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/techs.png" width = 275 height = 175/>
+
 
 <p align="center"> 
    <a>
