@@ -53,12 +53,6 @@
   </a>
 </p> 
 
-<p align="center"> 
-  <a href = "https://leetcode.com/meteahmetyakar/">
-    <img src="https://leetcard.jacoblin.cool/meteahmetyakar?theme=unicorn&font=Almarai"/>
-  </a>
-  <h3 align="center">I am solving at least one question every day in <a href="https://leetcode.com/meteahmetyakar/">leetcode</a> as of July 4, 2022</h3>
-  <h3 align="center">You can review some of the questions I solved and liked <a href="https://github.com/meteahmetyakar/leetcode-problems">here</a>.</h3>
   
 </p> 
 
@@ -70,8 +64,6 @@
 </p> 
 
 ### 🛠 &nbsp;Tech Stack
-
-
 
 <p align="center"> 
    <a>
