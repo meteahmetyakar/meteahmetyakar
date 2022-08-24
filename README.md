@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <a href="#">
-    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
     <br></br>
   </a>
 </p> 
@@ -49,7 +49,7 @@
 
 <p align="center"> 
   <a>
-    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
     <br></br>
   </a>
 </p> 
@@ -65,7 +65,7 @@
 
 <p align="center"> 
   <a>
-    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
     <br></br>
   </a>
 </p> 
@@ -76,7 +76,7 @@
 
 <p align="center"> 
    <a>
-    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/line.png"/>
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
     <br></br>
   </a>
 </p> 
