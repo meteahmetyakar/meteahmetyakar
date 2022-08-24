@@ -40,11 +40,6 @@
   
 </p> 
 
-<p align="center"> 
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteahmetyakar&hide=css,html,makefile&langs_count_private=true&cache_seconds=86400&bg_color=82%,c3c7e8,c3c7e8,a9ff99&card_width=805"/>
-  </a>
-</p> 
 
 <p align="center"> 
   <a>
