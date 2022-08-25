@@ -48,7 +48,7 @@
 </p> 
 
 <p align="center"> 
-  <a>
+  <a href="#">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
     <br></br>
   </a>
@@ -64,18 +64,19 @@
 </p> 
 
 <p align="center"> 
-  <a>
+  <a href="#">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
     <br></br>
   </a>
 </p> 
 
 ### 🛠 &nbsp;Tech Stack
-
-<img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/techs.png" width = 275 height = 175/>
+<a href="#">
+  <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/techs.png" width = 275 height = 175/>
+</a>
 
 <p align="center"> 
-   <a>
+   <a href="#">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
     <br></br>
   </a>
