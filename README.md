@@ -22,8 +22,8 @@
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/exercises.png"/>
   </a>
   
-   <a href="https://github.com/meteahmetyakar/tower-of-hanoi-solving-rules">
-    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/tower-of-hanoi.png"/>
+   <a href="https://github.com/meteahmetyakar/Project-Tetris">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/project-tetris.png"/>
   </a>
   
   <a href="https://github.com/meteahmetyakar/wordgame">
@@ -42,7 +42,7 @@
 
 <p align="center"> 
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteahmetyakar&hide=css,html,makefile&langs_count_private=true&cache_seconds=86400&bg_color=82%,c3c7e8,c3c7e8,a9ff99&card_width=805"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meteahmetyakar&hide=css,html,makefile&langs_count_private=true&cache_seconds=86400&bg_color=82%,c3c7e8,c3c7e8,a9ff99&card_width=805"/>
   </a>
 </p> 
 
