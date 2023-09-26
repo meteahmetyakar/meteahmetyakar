@@ -11,12 +11,17 @@
 
 <p align="center"> 
   <a href="https://github.com/meteahmetyakar/person-recognition-and-tkinter-GUI">
-    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/person-rec-tkinter.png"/>
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/java.png"/>
+  </a>
+  
+  <a href="https://github.com/meteahmetyakar/wordgame">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/wordgame.png"/>
   </a>
   
   <a href="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/bmi-calc.png"/>
   </a>
+  
   
    <a href="https://github.com/meteahmetyakar/exercises">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/exercises.png"/>
@@ -26,17 +31,14 @@
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/project-tetris.png"/>
   </a>
   
-  <a href="https://github.com/meteahmetyakar/wordgame">
-    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/wordgame.png"/>
+  <a href="https://github.com/meteahmetyakar/leetcode-problems">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/leetcode-problems.png"/>
   </a>
   
   <a href="https://github.com/meteahmetyakar/knocomy">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/knocomy.png"/>
   </a>
   
-  <a href="https://github.com/meteahmetyakar/leetcode-problems">
-    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/leetcode-problems.png"/>
-  </a>
   
 </p> 
 
