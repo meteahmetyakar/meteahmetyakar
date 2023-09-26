@@ -10,7 +10,7 @@
 </p> 
 
 <p align="center"> 
-  <a href="https://github.com/meteahmetyakar/person-recognition-and-tkinter-GUI">
+  <a href="https://github.com/meteahmetyakar/java">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/java.png"/>
   </a>
   
