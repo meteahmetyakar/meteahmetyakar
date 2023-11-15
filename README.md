@@ -1,6 +1,7 @@
 
-### - 🖐🏼 Hi, I'm mete ahmet yakar
+#### - 🖐🏼 Hi, I'm mete ahmet yakar
 ### - 👨🏽‍💻 I'm a computer engineering student at Gebze Technical University.
+<h1>Hi, I'm mete ahmet yakar</h1>
 
 <p align="center"> 
   <a href="#">
