@@ -10,13 +10,15 @@
 </p> 
 
 <p align="center"> 
+
+  <a href="https://github.com/Project-AA-ORG">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/STS.png"/>
+  </a>
+  
   <a href="https://github.com/meteahmetyakar/java">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/java.png"/>
   </a>
   
-  <a href="https://github.com/meteahmetyakar/wordgame">
-    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/wordgame.png"/>
-  </a>
   
   <a href="https://github.com/meteahmetyakar/Bmi-Calculator-With-Image-Processing">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/bmi-calc.png"/>
@@ -37,6 +39,10 @@
   
   <a href="https://github.com/meteahmetyakar/knocomy">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/knocomy.png"/>
+  </a>
+
+  <a href="https://github.com/meteahmetyakar/wordgame">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/wordgame.png"/>
   </a>
   
   
