@@ -76,12 +76,11 @@
     <br></br>
   </a>
 </p> 
-
+<!-- 
 ### 🛠 &nbsp;Tech Stack
 <a href="#">
   <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/techs.png" width = 275 height = 175/>
 </a>
-
 <p align="center"> 
    <a href="#">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
@@ -89,6 +88,7 @@
   </a>
 </p> 
 
+-->
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/meteahmetyakar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
