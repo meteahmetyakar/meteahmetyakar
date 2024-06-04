@@ -29,7 +29,7 @@
   
   
    <a href="https://github.com/meteahmetyakar/exercises">
-    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/exercises.png"/>
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/exercisess.png"/>
   </a>
   
    <a href="https://github.com/meteahmetyakar/Project-Tetris">
