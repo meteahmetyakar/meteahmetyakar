@@ -1,6 +1,5 @@
 
 ### - 🖐🏼 Hi, I'm mete ahmet yakar
-### - 👨🏽‍💻 I'm a computer engineering student at Gebze Technical University.
 
 <p align="center"> 
   <a href="#">
